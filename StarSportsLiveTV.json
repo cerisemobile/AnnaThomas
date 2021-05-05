@@ -3,8 +3,8 @@
     "version": "2.0.0",
     "ads": {
       "enabled": false,
-      "mode_ads_banner": "adcolony",
-      "mode_ads_interstitial": "facebook",
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -14,9 +14,9 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_banner_id": "ca-app-pub-2626517099754424/7887657670",
+        "admob_interstitial_id": "ca-app-pub-2626517099754424/6213621536",
+        "admob_native_id": "ca-app-pub-2626517099754424/7696085985",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -49,7 +49,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 3000
       }
     },
@@ -66,31 +66,31 @@
     },
     "activities": {
       "splash": {
-        "duration": 4000
+        "duration": 3000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
-          "duration": 5000
+          "enabled": true,
+          "duration": 4000
         }
       },
       "main": {
         "_comment": "more=put developer id",
-        "more": "5700313618786177705"
+        "more": ""
       },
       "list": {
         "item": {
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 5000
+            "enabled": true,
+            "duration": 4000
           }
         }
       },
       "item": {
-        "native_ad": false,
+        "native_ad": true,
         "banner_ad": true,
         "interstitial_ad": true
       }
