@@ -14,9 +14,9 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_banner_id": "ca-app-pub-2626517099754424/5042002481",
+        "admob_interstitial_id": "ca-app-pub-2626517099754424/6687446016",
+        "admob_native_id": "ca-app-pub-2626517099754424/9911185782",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
@@ -49,7 +49,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 3000
       }
     },
@@ -69,9 +69,9 @@
         "duration": 4000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
