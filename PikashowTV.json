@@ -72,7 +72,7 @@
         "enabled": true,
         "loader": {
           "enabled": true,
-          "duration": 3000
+          "duration": 4000
         }
       },
       "main": {
@@ -85,7 +85,7 @@
           "type": "image",
           "loader": {
             "enabled": true,
-            "duration": 3000
+            "duration": 4000
           }
         }
       },
@@ -99,50 +99,46 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://troypoint.com/wp-content/uploads/2020/11/pikashow-apk.png",
         "title": "Test title 0",
         "description": "Test description 0"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://www.apkmart.net/wp-content/uploads/2021/01/screenshot-of-pikashow-movie-app-1.jpg",
         "title": "Test title 1",
         "description": "Test description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://www.apkmart.net/wp-content/uploads/2021/01/screenshot-of-pikashow-tv.jpg",
         "title": "Test title 2",
         "description": "Test description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://www.apkisland.net/wp-content/uploads/2021/03/unnamed.png",
         "title": "Test title 3",
         "description": "Test description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://gamedva.com/wp-content/uploads/Pikashow.jpg",
         "state": "free",
         "title": "Test title 4",
         "description": "Test description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/MHQ2ytGODLoxL6Pzsg_GyrvEDdqgzILWUJoY1yDM2Yg8rcNDKFf4ImJpTq9jpRrZMmA",
         "title": "Test title 5",
         "description": "Test description 5"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://aboutpakistannews.com/wp-content/uploads/2021/03/20210313_192404.jpg",
         "title": "Test title 6",
         "description": "Test description 6"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://i2.wp.com/www.techapkpc.com/wp-content/uploads/2020/12/Pikashow-for-PC.png?resize=501%2C329&ssl=1",
         "title": "Test title 7",
         "description": "Test description 7"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+      }
       }
     ]
   }
