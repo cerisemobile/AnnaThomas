@@ -71,8 +71,8 @@
       "start": {
         "enabled": false,
         "loader": {
-          "enabled": false,
-          "duration": 4000
+          "enabled": true,
+          "duration": 3000
         }
       },
       "main": {
