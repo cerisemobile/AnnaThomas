@@ -69,9 +69,9 @@
         "duration": 3000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 3000
         }
       },
@@ -85,7 +85,7 @@
           "type": "image",
           "loader": {
             "enabled": true,
-            "duration": 3000
+            "duration": 4000
           }
         }
       },
