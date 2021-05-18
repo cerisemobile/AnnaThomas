@@ -5,7 +5,7 @@
       "enabled": true,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "admob",
+      "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -26,7 +26,7 @@
       "facebook": {
         "facebook_banner_id": "580411759600934_580412236267553",
         "facebook_interstitial_id": "580411759600934_581455659496544",
-        "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+        "facebook_native_id": "580411759600934_581620932813350"
       },
       "unity": {
         "unity_app_id": "4100687",
